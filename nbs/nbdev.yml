@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "bash_buddy"
+  site-url: "https://netzzwergeGithub.github.io/bash_buddy"
+  description: "A buddy for your shell"
+  repo-branch: main
+  repo-url: "https://github.com/netzzwergeGithub/bash_buddy"
