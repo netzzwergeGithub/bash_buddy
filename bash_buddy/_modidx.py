@@ -5,4 +5,6 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://netzzwergeGithub.github.io',
                 'git_url': 'https://github.com/netzzwergeGithub/bash_buddy',
                 'lib_path': 'bash_buddy'},
-  'syms': {'bash_buddy.core': {'bash_buddy.core.foo': ('core.html#foo', 'bash_buddy/core.py')}}}
+  'syms': { 'bash_buddy.core': { 'bash_buddy.core.fmt_query': ('core.html#fmt_query', 'bash_buddy/core.py'),
+                                 'bash_buddy.core.main': ('core.html#main', 'bash_buddy/core.py'),
+                                 'bash_buddy.core.tmux_history': ('core.html#tmux_history', 'bash_buddy/core.py')}}}
