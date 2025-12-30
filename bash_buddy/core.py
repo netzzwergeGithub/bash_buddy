@@ -33,5 +33,5 @@ def fmt_query(query):
 def main(query:str): # Question to ask the assistant
   'Bash buddy assitant for your terminal.'
   c = Chat('claude-sonnet-4-5-20250929', tools=[view,rg])
-  res = c(fmt_query(query))
+  res = c(fmt_query(query), max_steps=5)
   print(res.choices[0].message.content)    
