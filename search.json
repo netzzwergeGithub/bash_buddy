@@ -1,0 +1,52 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "core",
+    "section": "",
+    "text": "source\n\ntmux_history\n\n tmux_history ()\n\n\nsource\n\n\nfmt_query\n\n fmt_query (query)\n\n\nsource\n\n\nmain\n\n main (query:str)\n\nBash buddy assitant for your terminal.\n\n\n\n\nType\nDetails\n\n\n\n\nquery\nstr\nQuestion to ask the assistant",
+    "crumbs": [
+      "core"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "bash_buddy",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "bash_buddy"
+    ]
+  },
+  {
+    "objectID": "index.html#developer-guide",
+    "href": "index.html#developer-guide",
+    "title": "bash_buddy",
+    "section": "Developer Guide",
+    "text": "Developer Guide\nIf you are new to using nbdev here are some useful pointers to get you started.\n\nInstall bash_buddy in Development mode\n# make sure bash_buddy package is installed in development mode\n$ pip install -e .\n\n# make changes under nbs/ directory\n# ...\n\n# compile to have changes apply to bash_buddy\n$ nbdev_prepare",
+    "crumbs": [
+      "bash_buddy"
+    ]
+  },
+  {
+    "objectID": "index.html#usage",
+    "href": "index.html#usage",
+    "title": "bash_buddy",
+    "section": "Usage",
+    "text": "Usage\n\nInstallation\nInstall latest from the GitHub repository:\n$ pip install git+https://github.com/netzzwergeGithub/bash_buddy.git\nor from conda\n$ conda install -c netzzwergeGithub bash_buddy\nor from pypi\n$ pip install bash_buddy\n\n\nDocumentation\nDocumentation can be found hosted on this GitHub repository’s pages. Additionally you can find package manager specific guidelines on conda and pypi respectively.",
+    "crumbs": [
+      "bash_buddy"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "bash_buddy",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "bash_buddy"
+    ]
+  }
+]
